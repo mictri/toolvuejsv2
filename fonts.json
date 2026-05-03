@@ -1,0 +1,282 @@
+[
+  {
+    "fileName": "amiri-v30-latin-regular.woff2",
+    "fontFamily": "amiri"
+  },
+  {
+    "fileName": "biz-udpmincho-v11-japanese_latin-700.woff2",
+    "fontFamily": "biz"
+  },
+  {
+    "fileName": "biz-udpmincho-v11-japanese_latin-regular.woff2",
+    "fontFamily": "biz"
+  },
+  {
+    "fileName": "cormorant-garamond-v21-cyrillic_cyrillic-ext_latin_latin-ext_vietnamese-600.woff2",
+    "fontFamily": "cormorant"
+  },
+  {
+    "fileName": "cormorant-garamond-v21-cyrillic_cyrillic-ext_latin_latin-ext_vietnamese-regular.woff2",
+    "fontFamily": "cormorant"
+  },
+  {
+    "fileName": "dancing-script-v29-latin_latin-ext_vietnamese-600.woff2",
+    "fontFamily": "dancing"
+  },
+  {
+    "fileName": "dancing-script-v29-latin_latin-ext_vietnamese-regular.woff2",
+    "fontFamily": "dancing"
+  },
+  {
+    "fileName": "Karla-Bold.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Bold.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-BoldItalic.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-BoldItalic.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraBold.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraBold.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraBoldItalic.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraBoldItalic.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraLight.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraLight.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraLightItalic.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-ExtraLightItalic.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Italic.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Italic.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Light.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Light.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-LightItalic.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-LightItalic.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Medium.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Medium.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-MediumItalic.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-MediumItalic.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Regular.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-Regular.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-SemiBold.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-SemiBold.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-SemiBoldItalic.woff",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "Karla-SemiBoldItalic.woff2",
+    "fontFamily": "Karla"
+  },
+  {
+    "fileName": "mrs-saint-delafield-v14-latin-regular.woff2",
+    "fontFamily": "mrs"
+  },
+  {
+    "fileName": "noto-sans-jp-v56-japanese_latin-300.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "noto-sans-jp-v56-japanese_latin-500.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "noto-sans-jp-v56-japanese_latin-regular.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "noto-serif-jp-v33-japanese_latin-300.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "noto-serif-jp-v33-japanese_latin-500.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "noto-serif-jp-v33-japanese_latin-600.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "noto-serif-jp-v33-japanese_latin-700.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "noto-serif-jp-v33-japanese_latin-regular.woff2",
+    "fontFamily": "noto"
+  },
+  {
+    "fileName": "Oswald-Bold.woff",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-Bold.woff2",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-ExtraLight.woff",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-ExtraLight.woff2",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-Light.woff",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-Light.woff2",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-Medium.woff",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-Medium.woff2",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-Regular.woff",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-Regular.woff2",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-SemiBold.woff",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "Oswald-SemiBold.woff2",
+    "fontFamily": "Oswald"
+  },
+  {
+    "fileName": "outfit-v15-latin-500.woff2",
+    "fontFamily": "outfit"
+  },
+  {
+    "fileName": "parisienne-v14-latin_latin-ext-regular.woff2",
+    "fontFamily": "parisienne"
+  },
+  {
+    "fileName": "playfair-display-v40-latin-700.woff2",
+    "fontFamily": "playfair"
+  },
+  {
+    "fileName": "playfair-display-v40-latin-regular.woff2",
+    "fontFamily": "playfair"
+  },
+  {
+    "fileName": "shippori-mincho-b1-v24-japanese_latin-500.woff2",
+    "fontFamily": "shippori"
+  },
+  {
+    "fileName": "shippori-mincho-b1-v24-japanese_latin-600.woff2",
+    "fontFamily": "shippori"
+  },
+  {
+    "fileName": "shippori-mincho-b1-v24-japanese_latin-700.woff2",
+    "fontFamily": "shippori"
+  },
+  {
+    "fileName": "shippori-mincho-b1-v24-japanese_latin-regular.woff2",
+    "fontFamily": "shippori"
+  },
+  {
+    "fileName": "shippori-mincho-v17-japanese_latin-700.woff2",
+    "fontFamily": "shippori"
+  },
+  {
+    "fileName": "shippori-mincho-v17-japanese_latin-regular.woff2",
+    "fontFamily": "shippori"
+  },
+  {
+    "fileName": "zen-kaku-gothic-new-v18-japanese_latin-500.woff2",
+    "fontFamily": "zen"
+  },
+  {
+    "fileName": "zen-kaku-gothic-new-v18-japanese_latin-regular.woff2",
+    "fontFamily": "zen"
+  },
+  {
+    "fileName": "zen-old-mincho-v13-japanese_latin-700.woff2",
+    "fontFamily": "zen"
+  },
+  {
+    "fileName": "zen-old-mincho-v13-japanese_latin-regular.woff2",
+    "fontFamily": "zen"
+  }
+]
